@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Last Surprise",
+  "base_artist": "Lyn",
+  "createdAt": "2025-12-14T10:43:46.435170Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Last Surprise (From \"Persona 5\")",
+      "artist": "Shoji Meguro feat. daigoro789",
+      "has_synced": true,
+      "path": "select/01_Last_Surprise_(From__Persona_5_)_Shoji_Meguro_feat._daigoro789.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Last Surprise",
+      "artist": "Shoji Meguro & Lyn",
+      "has_synced": true,
+      "path": "select/02_Last_Surprise_Shoji_Meguro_&_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Last Surprise",
+      "artist": "Lyn Inaizumi",
+      "has_synced": true,
+      "path": "select/03_Last_Surprise_Lyn_Inaizumi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Last Surprise",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/04_Last_Surprise_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last Surprise - Scramble",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/05_Last_Surprise_-_Scramble_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Last Surprise -Scramble-",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/06_Last_Surprise_-Scramble-_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Last Surprise - Queen Side (from \"Persona 5\") - Metal Version",
+      "artist": "FamilyJules feat. Sapphire",
+      "has_synced": false,
+      "path": "select/07_Last_Surprise_-_Queen_Side_(from__Persona_5_)_-_Metal_Version_FamilyJules_feat._Sapphire.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Last Surprise - Queen Side (from \"Persona 5\")",
+      "artist": "FamilyJules7x feat. Sapphire",
+      "has_synced": false,
+      "path": "select/08_Last_Surprise_-_Queen_Side_(from__Persona_5_)_FamilyJules7x_feat._Sapphire.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Last Surprise",
+      "artist": "Shoji Meguro",
+      "has_synced": true,
+      "path": "select/09_Last_Surprise_Shoji_Meguro.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Last Surprise",
+      "artist": "Lyn",
+      "has_synced": false,
+      "path": "select/10_Last_Surprise_Lyn.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Surprise - Jazztronik Remix",
+      "artist": "Lyn feat. Jazztronik",
+      "has_synced": true,
+      "path": "select/11_Last_Surprise_-_Jazztronik_Remix_Lyn_feat._Jazztronik.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last Surprise (Jazztronik Remix)",
+      "artist": "Jazztronik",
+      "has_synced": true,
+      "path": "select/12_Last_Surprise_(Jazztronik_Remix)_Jazztronik.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Last Surprise - ☆Taku Takahashi Remix",
+      "artist": "Lyn feat. ☆Taku Takahashi",
+      "has_synced": false,
+      "path": "select/13_Last_Surprise_-_☆Taku_Takahashi_Remix_Lyn_feat._☆Taku_Takahashi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Last Surprise (☆Taku Takahashi Remix)",
+      "artist": "☆Taku Takahashi",
+      "has_synced": false,
+      "path": "select/14_Last_Surprise_(☆Taku_Takahashi_Remix)_☆Taku_Takahashi.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Last Surprise - P5D-EDIT",
+      "artist": "Lyn",
+      "has_synced": false,
+      "path": "select/15_Last_Surprise_-_P5D-EDIT_Lyn.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Last Surprise (P5D-EDIT)",
+      "artist": "Lyn",
+      "has_synced": false,
+      "path": "select/16_Last_Surprise_(P5D-EDIT)_Lyn.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Last Surprise Jazztronik Remix",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/17_Last_Surprise_Jazztronik_Remix_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Last Surprise ☆Taku Takahashi Remix",
+      "artist": "Lyn",
+      "has_synced": false,
+      "path": "select/18_Last_Surprise_☆Taku_Takahashi_Remix_Lyn.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last Surprise",
+      "artist": "Lyn",
+      "has_synced": false,
+      "path": "select/pl_01_Last_Surprise_Lyn.txt"
+    }
+  ]
+}
